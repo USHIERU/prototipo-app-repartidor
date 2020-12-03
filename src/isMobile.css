@@ -1,0 +1,23 @@
+.leaflet-container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.loader {
+    border: 50px solid #28A9E0;
+    border-radius: 50%;
+    border-top: 50px solid #006D9B;
+    width: 70vw;
+    height: 70vw;
+  }
+  
+  /* Safari */
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }

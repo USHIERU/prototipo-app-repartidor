@@ -1,0 +1,82 @@
+<svg width="525" height="296" viewBox="0 0 525 296" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="525" height="296" fill="white"/>
+<rect width="525" height="296" fill="#28A9E0" fill-opacity="0.5"/>
+<rect x="148" y="30.0625" width="138.75" height="222" rx="3" fill="#FAFAFA"/>
+<mask id="path-3-inside-1" fill="white">
+<rect x="145.688" y="230.064" width="49.893" height="42.8109" rx="3"/>
+</mask>
+<rect x="145.688" y="230.064" width="49.893" height="42.8109" rx="3" fill="#006D9B" stroke="#202020" stroke-width="10" mask="url(#path-3-inside-1)"/>
+<mask id="path-4-inside-2" fill="white">
+<rect x="145.688" y="9.25" width="145.688" height="22.5321" rx="3"/>
+</mask>
+<rect x="145.688" y="9.25" width="145.688" height="22.5321" rx="3" fill="#C4C4C4" stroke="#202020" stroke-width="10" mask="url(#path-4-inside-2)"/>
+<mask id="path-5-inside-3" fill="white">
+<rect x="291.375" y="272.875" width="145.688" height="22.5321" rx="3" transform="rotate(-180 291.375 272.875)"/>
+</mask>
+<rect x="291.375" y="272.875" width="145.688" height="22.5321" rx="3" transform="rotate(-180 291.375 272.875)" fill="#C4C4C4" stroke="#202020" stroke-width="10" mask="url(#path-5-inside-3)"/>
+<mask id="path-6-inside-4" fill="white">
+<rect x="145.688" y="9.25" width="145.688" height="263.625" rx="3"/>
+</mask>
+<rect x="145.688" y="9.25" width="145.688" height="263.625" rx="3" stroke="#202020" stroke-width="10" mask="url(#path-6-inside-4)"/>
+<mask id="path-7-inside-5" fill="white">
+<rect x="145.688" y="27.2756" width="49.893" height="51.8237" rx="3"/>
+</mask>
+<rect x="145.688" y="27.2756" width="49.893" height="51.8237" rx="3" fill="#006D9B" stroke="#202020" stroke-width="10" mask="url(#path-7-inside-5)"/>
+<mask id="path-8-inside-6" fill="white">
+<rect x="145.688" y="94.8718" width="49.893" height="51.8237" rx="3"/>
+</mask>
+<rect x="145.688" y="94.8718" width="49.893" height="51.8237" rx="3" fill="#006D9B" stroke="#202020" stroke-width="10" mask="url(#path-8-inside-6)"/>
+<mask id="path-9-inside-7" fill="white">
+<rect x="145.688" y="162.468" width="49.893" height="51.8237" rx="3"/>
+</mask>
+<rect x="145.688" y="162.468" width="49.893" height="51.8237" rx="3" fill="#006D9B" stroke="#202020" stroke-width="10" mask="url(#path-9-inside-7)"/>
+<mask id="path-10-inside-8" fill="white">
+<rect x="209.551" y="27.2756" width="81.8245" height="51.8237" rx="3"/>
+</mask>
+<rect x="209.551" y="27.2756" width="81.8245" height="51.8237" rx="3" fill="#006D9B" stroke="#202020" stroke-width="10" mask="url(#path-10-inside-8)"/>
+<mask id="path-11-inside-9" fill="white">
+<rect x="209.551" y="94.8718" width="81.8245" height="51.8237" rx="3"/>
+</mask>
+<rect x="209.551" y="94.8718" width="81.8245" height="51.8237" rx="3" fill="#006D9B" stroke="#202020" stroke-width="10" mask="url(#path-11-inside-9)"/>
+<mask id="path-12-inside-10" fill="white">
+<rect x="209.551" y="162.468" width="81.8245" height="92.3814" rx="3"/>
+</mask>
+<rect x="209.551" y="162.468" width="81.8245" height="92.3814" rx="3" fill="#006D9B" stroke="#202020" stroke-width="10" mask="url(#path-12-inside-10)"/>
+<path d="M203.5 110.629C203.363 110.535 203.198 110.412 203.004 110.256C202.254 109.652 201.286 108.718 200.158 107.484C197.913 105.029 195.214 101.583 192.61 97.7295C190.007 93.8763 187.542 89.6779 185.738 85.724C183.905 81.706 182.875 78.1983 182.875 75.6438C182.875 64.6909 192.039 55.6875 203.5 55.6875C214.961 55.6875 224.125 64.6909 224.125 75.6438C224.125 78.1983 223.095 81.706 221.262 85.724C219.458 89.6779 216.993 93.8763 214.39 97.7295C211.786 101.583 209.087 105.029 206.842 107.484C205.714 108.718 204.746 109.652 203.996 110.256C203.802 110.412 203.637 110.535 203.5 110.629ZM203.102 110.869C203.086 110.876 203.079 110.878 203.079 110.878C203.079 110.877 203.087 110.874 203.102 110.869ZM203.898 110.869C203.913 110.874 203.921 110.877 203.921 110.878C203.921 110.878 203.914 110.876 203.898 110.869Z" fill="#28A9E0" stroke="#202020" stroke-width="5"/>
+<circle cx="203.5" cy="76.3125" r="11.5625" fill="#006D9B"/>
+<mask id="path-15-inside-11" fill="white">
+<rect x="272.875" y="182.688" width="104.062" height="104.062" rx="3"/>
+</mask>
+<rect x="272.875" y="182.688" width="104.062" height="104.062" rx="3" fill="#D18D28" stroke="#202020" stroke-width="10" mask="url(#path-15-inside-11)"/>
+<mask id="path-16-inside-12" fill="white">
+<rect x="314.5" y="182.688" width="23.125" height="32.375" rx="3"/>
+</mask>
+<rect x="314.5" y="182.688" width="23.125" height="32.375" rx="3" fill="#E82F3E" stroke="#202020" stroke-width="10" mask="url(#path-16-inside-12)"/>
+<mask id="path-17-inside-13" fill="white">
+<rect x="296" y="101.75" width="80.9375" height="80.9375" rx="3"/>
+</mask>
+<rect x="296" y="101.75" width="80.9375" height="80.9375" rx="3" fill="#D18D28" stroke="#202020" stroke-width="10" mask="url(#path-17-inside-13)"/>
+<mask id="path-18-inside-14" fill="white">
+<rect x="296" y="101.75" width="80.9375" height="80.9375" rx="3"/>
+</mask>
+<rect x="296" y="101.75" width="80.9375" height="80.9375" rx="3" fill="#D18D28" stroke="#202020" stroke-width="10" mask="url(#path-18-inside-14)"/>
+<mask id="path-19-inside-15" fill="white">
+<rect x="328.375" y="101.75" width="17.9861" height="25.1806" rx="3"/>
+</mask>
+<rect x="328.375" y="101.75" width="17.9861" height="25.1806" rx="3" fill="#E82F3E" stroke="#202020" stroke-width="10" mask="url(#path-19-inside-15)"/>
+<mask id="path-20-inside-16" fill="white">
+<rect x="307.562" y="41.625" width="60.125" height="60.125" rx="3"/>
+</mask>
+<rect x="307.562" y="41.625" width="60.125" height="60.125" rx="3" fill="#D18D28" stroke="#202020" stroke-width="10" mask="url(#path-20-inside-16)"/>
+<mask id="path-21-inside-17" fill="white">
+<rect x="307.562" y="41.625" width="60.125" height="60.125" rx="3"/>
+</mask>
+<rect x="307.562" y="41.625" width="60.125" height="60.125" rx="3" fill="#D18D28" stroke="#202020" stroke-width="10" mask="url(#path-21-inside-17)"/>
+<mask id="path-22-inside-18" fill="white">
+<rect x="331.612" y="41.625" width="13.3611" height="18.7056" rx="3"/>
+</mask>
+<rect x="331.612" y="41.625" width="13.3611" height="18.7056" rx="3" fill="#E82F3E" stroke="#202020" stroke-width="10" mask="url(#path-22-inside-18)"/>
+<rect x="319.125" y="80.9375" width="37" height="11.5625" rx="3" fill="#9E691A"/>
+<rect x="307.562" y="159.562" width="57.8125" height="11.5625" rx="3" fill="#9E691A"/>
+<rect x="286.75" y="254.375" width="76.3125" height="18.5" rx="3" fill="#9E691A"/>
+</svg>

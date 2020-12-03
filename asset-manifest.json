@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/prototipo-app-repartidor/static/css/main.b012d01f.chunk.css",
+    "main.js": "/prototipo-app-repartidor/static/js/main.33c30eb9.chunk.js",
+    "main.js.map": "/prototipo-app-repartidor/static/js/main.33c30eb9.chunk.js.map",
+    "runtime-main.js": "/prototipo-app-repartidor/static/js/runtime-main.d7fb3777.js",
+    "runtime-main.js.map": "/prototipo-app-repartidor/static/js/runtime-main.d7fb3777.js.map",
+    "static/css/2.c501fa8b.chunk.css": "/prototipo-app-repartidor/static/css/2.c501fa8b.chunk.css",
+    "static/js/2.e4f03189.chunk.js": "/prototipo-app-repartidor/static/js/2.e4f03189.chunk.js",
+    "static/js/2.e4f03189.chunk.js.map": "/prototipo-app-repartidor/static/js/2.e4f03189.chunk.js.map",
+    "index.html": "/prototipo-app-repartidor/index.html",
+    "static/css/2.c501fa8b.chunk.css.map": "/prototipo-app-repartidor/static/css/2.c501fa8b.chunk.css.map",
+    "static/css/main.b012d01f.chunk.css.map": "/prototipo-app-repartidor/static/css/main.b012d01f.chunk.css.map",
+    "static/js/2.e4f03189.chunk.js.LICENSE.txt": "/prototipo-app-repartidor/static/js/2.e4f03189.chunk.js.LICENSE.txt",
+    "static/media/Megico Magico.d9b054e3.svg": "/prototipo-app-repartidor/static/media/Megico Magico.d9b054e3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7fb3777.js",
+    "static/css/2.c501fa8b.chunk.css",
+    "static/js/2.e4f03189.chunk.js",
+    "static/css/main.b012d01f.chunk.css",
+    "static/js/main.33c30eb9.chunk.js"
+  ]
+}

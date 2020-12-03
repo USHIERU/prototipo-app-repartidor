@@ -3,7 +3,7 @@ import IsDesktop from './layouts/IsDesktop'
 import IsMobile from './layouts/IsMobile'
 
 export default () => {
-    const [content, setContent] = useState(true)
+    const [content, setContent] = useState(false)
 
     return <>
         <section className="hidden sm:block">
